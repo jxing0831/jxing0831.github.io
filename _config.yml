@@ -82,12 +82,11 @@ analytics:
 author:
   name             : " Jie Xing "
   avatar           : "profile.png"
-  bio              : "A newbie in Computing/ Image/Opt.…
-  Looking forward to be the Dr. Know."
-  location         : "Location"
+  bio              : "A newbie looking forward to be the Dr. Know."
+  location         : "Shanghai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -104,18 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jxing0831"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "jxing0831"
 
 
 # Reading Files
