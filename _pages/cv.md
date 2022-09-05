@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My latest CV can be downloaded [here](jxing0831.github.io/files/CV_jiexing.pdf).
+
 Information and Computing Sciences, College of Science, Shanghai University
 
 E-Mail: jxing0831@qq.com, jxing0831@sjtu.edu.cn, 18152106379@shu.edu.cn
