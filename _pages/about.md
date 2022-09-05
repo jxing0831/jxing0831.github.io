@@ -17,4 +17,4 @@ My research interests focus on statistics and optimization theory, reinforcement
 
 ------
 
-🔔Advertisement: If you are interested in open source culture and willing to help others, you can fill out this [application form](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAAgdZFtUMjFXUVFDUzJPQldNOVZLVTZSMEFIS0xEUy4u) to join the SHUOSC, which is a open source community organized by students in SHU. I will be happy to help you with my friends to explore. Thanks and glad you can come with us!
+🔔Advertisement: If you are interested in the culture of the geek and open source and willing to help others, you can fill out this [application form](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAAgdZFtUMjFXUVFDUzJPQldNOVZLVTZSMEFIS0xEUy4u) to join the SHUOSC, which is an open source community organized by students in SHU. I will be happy to help you with my friends to explore. Thanks and glad you can come with us!
