@@ -17,4 +17,4 @@ My research interests focus on statistics and optimization theory, reinforcement
 
 ------
 
-🔔<b><font size=3.8 color=red >Now I'm looking for a 24 fall PhD position! Welcome to contact me!</font></b> 
+🔔<b><font size=4 color=red >Now I'm looking for a 24 fall PhD position! Welcome to contact me!</font></b> 
