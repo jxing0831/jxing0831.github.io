@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-📌(Updating❗) My latest CV can be downloaded [here](https://jxing0831.github.io/files/jiexing0928)(09.28).
+📌(Updating❗) My latest CV can be downloaded [here](https://jxing0831.github.io/files/jiexing0928.pdf)(09.28).
 
 Information and Computing Sciences, College of Science, Shanghai University
 
