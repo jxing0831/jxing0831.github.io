@@ -20,8 +20,10 @@ E-Mail: jxing0831@qq.com, jxing0831@sjtu.edu.cn, 18152106379@shu.edu.cn
 Education
 ======
 * B.S. in Mathematics, Shanghai University, 2024(expected)
-#* M.S. in Jekyll, GitHub University, 2014
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<--!
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-->
 
 Work experience
 ======
