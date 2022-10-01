@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-📌(Updatinging❗) My latest CV can be downloaded [here](https://jxing0831.github.io/files/jiexing0928)(09.28).
+📌(Updating❗) My latest CV can be downloaded [here](https://jxing0831.github.io/files/jiexing0928)(09.28).
 
 Information and Computing Sciences, College of Science, Shanghai University
 
@@ -19,9 +19,9 @@ E-Mail: jxing0831@qq.com, jxing0831@sjtu.edu.cn, 18152106379@shu.edu.cn
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Shanghai University, 2024(expected)
+#* M.S. in Jekyll, GitHub University, 2014
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
