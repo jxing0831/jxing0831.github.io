@@ -17,7 +17,7 @@ E-Mail: jxing0831@qq.com
         jxing0831@sjtu.edu.cn
         18152106379@shu.edu.cn
 
-✒ `**@jxing0831**` is my personal ID, you can find me anywhere :D
+✒ **`@jxing0831`** is my personal ID, you can find me anywhere :D
 
 Education
 ======
