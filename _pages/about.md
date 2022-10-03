@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jxing0831.github.io)
+
 Welcome to Jie Xing's home!
 
 Hi！I'm Jie Xing.
