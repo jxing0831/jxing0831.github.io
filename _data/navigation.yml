@@ -1,7 +1,4 @@
 # main links links
-main:
-  - title: "Publications"
-    url: publications/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -23,7 +20,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: cv/
+    url: /cv/
         
   - title: "知乎"
     url: "https://www.zhihu.com/people/jxing0831"
