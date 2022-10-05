@@ -1,8 +1,7 @@
 ---
-title: 'VALSE 2022 参会小结'
+title: 'VALSE 2022'
 date: 2022-10-04
 permalink: /posts/2022/10/valse
-excerpt_separator: <!--more-->
 toc: true
 tags:
   - VALSE
