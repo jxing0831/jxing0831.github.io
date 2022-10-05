@@ -2,7 +2,6 @@
 title: 'VALSE 2022'
 date: 2022-10-04
 permalink: /posts/2022/10/valse
-toc: true
 tags:
   - VALSE
   - CV
