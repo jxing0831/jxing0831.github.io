@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.github.io)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.github.io&left_text=My%20HomePage%20Visitors)
 
 Welcome to Jie Xing's home!
 
