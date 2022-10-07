@@ -13,13 +13,13 @@ author_profile: true
 
 ---
 
-### 📫Email
+## 📫Email
 
 - [jxing0831@qq.com](mailto:jxing0831@qq.com) (usually)
 - [jxing0831@sjtu.edu.cn](mailto:jxing0831@sjtu.edu.cn) (often but unavailable after 2024.06)
 - [18152106379@shu.edu.cn](mailto:18152106379@shu.edu.cn) (usually but unavailable after 2024.06)
 
-### 📶Social Media
+## 📶Social Media
 
  🖊**`@jxing0831`** is my personal ID
 
@@ -47,9 +47,7 @@ You can also find me on some public platform
 - [Weibo](https://weibo.com/jxing0831) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/622b577b000000002102b32f?xhsshare=CopyLink&appuid=622b577b000000002102b32f&apptime=1665072716) are not often used unless I need them.
 
 
-### 🤝Friends
-
-#### 
+## 🤝Friends
 
 - [wyhallenwu](https://wyhallenwu.github.io/) _@Cyberspace Cecurity_19_
   > Help me a lot with R²(Robot and RL) research
