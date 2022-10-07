@@ -58,13 +58,13 @@ You can also find me on some public platform
   > [_Mitacser_](https://www.mitacs.ca/) _@Concordia_ and a Liver-Emperor 
 
 - [HenryAvery](https://www.zhihu.com/people/da-sheng-qi-tian-85) _@IST_19_
-  > Leader of the [_SC team_](https://shusct.netlify.app/)  in _SHU_ | Lifelong learner and Reader
+  > Leader of the [_SC team_](https://shusct.netlify.app/)  in _SHU_ , Lifelong learner and Reader
 
 - [penbo807](https://pengbo807.github.io/) _@AI_19_
-  > SJTUer in [_Shanghai AI Lab_](https://www.shlab.org.cn/) | CVer
+  > SJTUer in [_Shanghai AI Lab_](https://www.shlab.org.cn/) , CVer
 
 - [LaneGong](https://lanegong.github.io/) _@Cyberspace Cecurity_20_
-  > CTFer | Research interest: Web Security and Cryptography
+  > CTFer, Research interest: Web Security and Cryptography
 
 - [Lemonade_J](Jhttps://lemonadejj.github.io) _@CS_20_
   >Teammate@_S.R.M_ & _MCM_ and now focus CV research and Supercomputer Challenge
