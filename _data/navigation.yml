@@ -19,8 +19,11 @@ main:
   - title: "Blog"
     url: /blog/
     
+  - title: "Contact"
+    url: /contact/          
+  
   - title: "CV"
     url: /cv/
-        
+    
 #  - title: "知乎"
 #    url: "https://www.zhihu.com/people/jxing0831"
