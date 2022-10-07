@@ -19,6 +19,8 @@ author_profile: true
 - [jxing0831@sjtu.edu.cn](mailto:jxing0831@sjtu.edu.cn) (often but unavailable after 2024.06)
 - [18152106379@shu.edu.cn](mailto:18152106379@shu.edu.cn) (usually but unavailable after 2024.06)
 
+---
+
 ## 📶Social Media
 
  🖊**`@jxing0831`** is my personal ID
@@ -46,6 +48,7 @@ You can also find me on some public platform
 
 - [Weibo](https://weibo.com/jxing0831) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/622b577b000000002102b32f?xhsshare=CopyLink&appuid=622b577b000000002102b32f&apptime=1665072716) are not often used unless I need them.
 
+---
 
 ## 🤝Friends
 
@@ -64,7 +67,7 @@ You can also find me on some public platform
 - [LaneGong](https://lanegong.github.io/) _@Cyberspace Cecurity_20_
   > CTFer, Research interest: Web Security and Cryptography
 
-- [Lemonade_J](Jhttps://lemonadejj.github.io) _@CS_20_
+- [Lemonade_JJ](https://lemonadejj.github.io) _@CS_20_
   >Teammate@_S.R.M_ & _MCM_ and now focus CV research and Supercomputer Challenge
 
 - [华](https://github.com/20empty) _@Communication Engineering_20_
