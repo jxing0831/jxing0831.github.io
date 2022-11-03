@@ -52,28 +52,31 @@ You can also find me on some public platform
 
 ## 🤝Friends
 
-- [wyhallenwu](https://wyhallenwu.github.io/) _@Cyberspace Cecurity_19_
-  > Help me a lot with R²(Robot and RL) research
+- [wyhallenwu](https://wyhallenwu.github.io) _@Cyberspace Cecurity_19_
+  > R³esearch
 
-- [Bughht](https://bughht.github.io/) _@BME_19_
+- [DMax1314](http://dmax13.ltd) _@Applied Math_19_
+  > ORer |  Opt. & ML
+
+- [Bughht](https://bughht.github.io) _@BME_19_
   > [_Mitacser_](https://www.mitacs.ca/) _@Concordia_ and a Liver-Emperor 
 
 - [HenryAvery](https://www.zhihu.com/people/da-sheng-qi-tian-85) _@IST_19_
   > Leader of the [_SC team_](https://shusct.netlify.app/)  in _SHU_ , Lifelong learner and Reader
 
-- [penbo807](https://pengbo807.github.io/) _@AI_19_
-  > SJTUer in [_Shanghai AI Lab_](https://www.shlab.org.cn/) , CVer
+- [penbo807](https://pengbo807.github.io) _@AI_19_
+  > CVer & SJTUer | [_Shanghai AI Lab_](https://www.shlab.org.cn/) 
 
-- [LaneGong](https://lanegong.github.io/) _@Cyberspace Cecurity_20_
-  > CTFer, Research interest: Web Security and Cryptography
+- [LaneGong](https://lanegong.github.io) _@Cyberspace Cecurity_20_
+  > CTFer | Web Security and Cryptography
 
 - [Lemonade_JJ](https://lemonadejj.github.io) _@CS_20_
-  >Teammate@_S.R.M_ & _MCM_ and now focus CV research and Supercomputer Challenge
+  > Teammate@_S.R.M_ & _MCM_ | SCer
 
 - [华](https://github.com/20empty) _@Communication Engineering_20_
   > Teammate@_J.E.T_ and now front-end developers
 
-- [Ετhαη](https://ethanh3514.github.io/) _@CS_21_  
+- [Ετhαη](https://ethanh3514.github.io) _@CS_21_  
   > ACMer and Mathematics fans
    
  _**Looking Forward to Meeting More Interesting Souls!**_ 😉
