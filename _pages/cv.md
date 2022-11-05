@@ -11,7 +11,9 @@ redirect_from:
 
 📌(Updating❗) My latest CV can be downloaded [here](https://jxing0831.github.io/files/jiexing0928.pdf)(09.28).
 
+<!-- 
 <embed src="https://jxing0831.github.io/files/jiexing0928.pdf" type="application/pdf" width="100%" />
+--> 
 
 Information and Computing Sciences, College of Science, Shanghai University
 
