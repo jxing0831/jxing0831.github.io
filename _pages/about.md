@@ -24,5 +24,5 @@ My research interests focus on statistics and optimization theory, reinforcement
 -->
 
 
-🔔<span style="color: red; font-weight: bold; font-style: italic; font-size: 20px">Now I am looking forword to chances of 24' fall PhD position and RA or Intern all over the world. Please contact me through email if interested.</span>
+🔔<span style="color: red; font-weight: bold; font-style: italic; font-size: 20px">Now I am looking for chances of 24' fall PhD position or Research intern all over the world. Welcome to contact me through email if interested.</span>
 
