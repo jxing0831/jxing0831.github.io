@@ -45,16 +45,18 @@ others out of confusion to find a better self.
 ---
 
 ## News
-- _|2022.08.31|_ &emsp; Give a [report] about **Fairness in ML** in _Seminar on Computational Social Science_ @[PKU-CFCS](https://cfcs.pku.edu.cn/english/). 
+- _<2022.08.31>_ &emsp; Give a [report] about **Fairness in ML** in _Seminar on Computational Social Science_ @[PKU-CFCS](https://cfcs.pku.edu.cn/english/). 
 
   👉 [[_Site_]](https://elicitation.info/classroom/2/) &emsp;[[_Paper_]](https://dl.acm.org/doi/abs/10.1145/3376898) &emsp;[[_Slide_]](https://jxing0831.github.io/files/A_Snapshot_of_the_Frontiers_of_Fairness_in_Machine_Learning.pdf) &emsp;[[_Video_]](https://www.bilibili.com/video/BV1UW4y117Jd/?p=23)
    > <iframe src="//player.bilibili.com/player.html?aid=941133835&bvid=BV1UW4y117Jd&cid=820249101&page=23" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-- _|2022.09.05|_ &emsp; Successfully assisted the Pro. Liang to open the first undergraduate course about **Network Science** in SHU, and served as a Teaching Assistant in Fall 2023.
+ <iframe src="//player.bilibili.com/player.html?aid=941133835&bvid=BV1UW4y117Jd&cid=820249101&page=23" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- _<2022.09.05>_ &emsp; Successfully assisted the Pro. Liang to open the first undergraduate course about **Network Science** in SHU, and served as a Teaching Assistant in Fall 2023.
  
   👉 [[_GitHub_]](https://github.com/jxing0831/SHU-Network_Science)
 
-- _|2022.11.03|_ &emsp; Give a report about **Society Diffusion** in final report presentation of the _Introduction to the Network Science_.
+- _<2022.11.03>_ &emsp; Give a report about **Society Diffusion** in final report presentation of the _Introduction to the Network Science_.
 
   👉 [[_Paper_]](https://www.nature.com/articles/s41467-021-25953-1) &emsp;[[_Slide_]](https://jxing0831.github.io/files/Collective_patterns_of_social_diffusion_are_shaped_by_individual_inertia_and_trend-seeking.pdf) &emsp;[[_Report_]](https://jxing0831.github.io/files/Final_report_for_NetSci.pdf)
   
