@@ -17,7 +17,9 @@ Welcome to Jie Xing's home!
 Hi！I'm Jie Xing.
 Currently I’m a junior student majoring in Information and Computing Science ([_ICS_](https://en.wikipedia.org/wiki/Information_and_computer_science)) at Shanghai University ([_SHU_](https://en.shu.edu.cn/)) <!--as well as minoring in Wise Information Technology of Medical in [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/),--> expected to graduate in 2024. 
 
+<!--
 My research interests focus on statistics and optimization theory, reinforcement learning, medical imaging, robotics and their intersections. My QQ_number is 1906736267 and feel free to contact me. I'd like to communicate with anybody around me.
+-->
 
 [\\]:(2022_11_16)
 
@@ -39,7 +41,7 @@ It is my duty to use information technology to provide convenience for human bei
 although my academic performance is not very outstanding. I enjoy this process helping
 others out of confusion to find a better self.
 
-
+My QQ Number is `1906736267` and feel free to contact me. I'd like to communicate with anybody around me :D
 
 
 ---
@@ -49,8 +51,6 @@ others out of confusion to find a better self.
 
   👉 [[_Site_]](https://elicitation.info/classroom/2/) &emsp;[[_Paper_]](https://dl.acm.org/doi/abs/10.1145/3376898) &emsp;[[_Slide_]](https://jxing0831.github.io/files/A_Snapshot_of_the_Frontiers_of_Fairness_in_Machine_Learning.pdf) &emsp;[[_Video_]](https://www.bilibili.com/video/BV1UW4y117Jd/?p=23)
    > <iframe src="//player.bilibili.com/player.html?aid=941133835&bvid=BV1UW4y117Jd&cid=820249101&page=23" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
- <iframe src="//player.bilibili.com/player.html?aid=941133835&bvid=BV1UW4y117Jd&cid=820249101&page=23" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 - _<2022.09.05>_ &emsp; Successfully assisted the Pro. Liang to open the first undergraduate course about **Network Science** in SHU, and served as a Teaching Assistant in Fall 2023.
  
