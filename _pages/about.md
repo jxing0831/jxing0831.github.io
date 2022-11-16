@@ -24,8 +24,8 @@ My research interests focus on statistics and optimization theory, reinforcement
 [\\]:(2022_11_16)
 
 I love my major, which is about _**[Informatics](https://en.wikipedia.org/wiki/Informatics)**_ and **_[Computational Mathematics](https://en.wikipedia.org/wiki/Computational_mathematics)_**
-under the [Department of Mathematics](https://en.math.shu.edu.cn/) in SHU. I like working with data and collecting all kinds of information from different fields. So my friends often ask me for advice when it is difficulty to make a decision.
-Despite all this, the more I know, the more I feel my ignorance.
+under the [Department of Mathematics](https://en.math.shu.edu.cn/) in SHU. I like working with data and collecting all kinds of information from different fields. So my friends often ask me for advice when it is difficult to make a decision.
+> Despite of all these, the more I know, the more I feel my ignorance.
 
 Currently, I am looking for overlapping interests between **_Biomedical Engineering_** and **_Information Technology_**,
 especially with the help of **Machine Learning**, and trying to find a balance between theoretical and applied research
