@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to Jie Xing's home!
 
-## About 
+# About 
 
 Hi！I'm Jie Xing.
 Currently I’m a junior student majoring in Information and Computing Science ([_ICS_](https://en.wikipedia.org/wiki/Information_and_computer_science)) at Shanghai University ([_SHU_](https://en.shu.edu.cn/)) <!--as well as minoring in Wise Information Technology of Medical in [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/),--> expected to graduate in 2024. 
@@ -43,10 +43,15 @@ others out of confusion to find a better self.
 
 My QQ Number is `1906736267` and feel free to contact me. I'd like to communicate with anybody around me :D
 
+---
+
+🔔
+<span style="color: red; font-weight: bold; font-style: italic; font-size: 20px">
+Now I am looking for '24/'25 fall PhD positions or Research interns all over the world. Welcome to contact me through email if possible.</span>
 
 ---
 
-## News
+# News
 - _<2022.08.31>_ &emsp; Give a [report] about **Fairness in ML** in _Seminar on Computational Social Science_ @[PKU-CFCS](https://cfcs.pku.edu.cn/english/). 
 
   👉 [[_Site_]](https://elicitation.info/classroom/2/) &emsp;[[_Paper_]](https://dl.acm.org/doi/abs/10.1145/3376898) &emsp;[[_Slide_]](https://jxing0831.github.io/files/A_Snapshot_of_the_Frontiers_of_Fairness_in_Machine_Learning.pdf) &emsp;[[_Video_]](https://www.bilibili.com/video/BV1UW4y117Jd/?p=23)
@@ -62,6 +67,4 @@ My QQ Number is `1906736267` and feel free to contact me. I'd like to communicat
   
 ---
 
-🔔
-<span style="color: red; font-weight: bold; font-style: italic; font-size: 20px">
-Now I am looking for '24/'25 fall PhD positions or Research interns all over the world. Welcome to contact me through email if possible.</span>
+
