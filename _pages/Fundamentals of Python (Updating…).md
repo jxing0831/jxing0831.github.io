@@ -1,3 +1,14 @@
+---
+
+title: "Fundamentals of Python (Updating…)"
+permalink: /py/
+author_profile: false
+---
+
+
+
+
+
 # Python 基础
 
 在学习机器学习之前，有必要对**`Python`** 相关语法知识进行复习，~~虽然我什么都不会就是了。~~
