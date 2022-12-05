@@ -2,7 +2,7 @@
 
 title: "Fundamentals of Python (Updating…)"
 permalink: /py/
-author_profile: false
+
 ---
 
 
