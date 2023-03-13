@@ -41,7 +41,6 @@ Education
           Wise Information Technology of Medical (Minor)</i>
       </ul>      
       </div>
-
 <br>
 
 
@@ -56,20 +55,12 @@ Education
           Bachelor of Science, Information and Computing Sciences<i>
       </ul>      
       </div>
-
-
-
-
-
-
-
-
-
+<br>
 
 ---
 
-## Experience
-
+Experience
+------
 
 ### Mathematical Contest in Modeling
 
@@ -90,14 +81,16 @@ Education
 
 
 <div align="left">
-    <font size="5"><strong> Team SRM, Shanghai University  </strong></font>(Sep. 2021 - Aug. 2022)
-            <img border="0" src="../images/srm.png" align="right" width="80" height="70">
+    <font size="4"><strong> Team SRM, Shanghai University  </strong></font>(Sep. 2021 - Aug. 2022)
+            <img border="0" src="../images/srm.png" align="right" width="60" height="54">
           </a> 
         <ul>
         <i>
           As a member of SHU Robomaster Team SRM, I assisted in development of the *standard* robot and the assembly.</i>
       </ul>      
       </div>
+
+
 
 
 
