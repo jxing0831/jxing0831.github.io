@@ -32,7 +32,7 @@ Education
 ------
 
 <div align="left">
-        <strong> 📕Shanghai Jiao Tong University, China (Feb. 2022 - Jun. 2024) </strong>
+        <strong> 📕Shanghai Jiao Tong University, China  </strong>(Feb. 2022 - Jun. 2024)
           <a href="https://www.ntu.edu.sg/" target="_blank" rel="external">
             <img border="0" src="../images/sjtu.png" align="right" width="210" height="70">
           </a> 
@@ -41,13 +41,13 @@ Education
           Wise Information Technology of Medical (Minor)</i>
       </ul>      
       </div>
+
 <br>
 
 
 
-
 <div align="left">
-        <strong> 📘Shanghai University, China (Sep. 2020 - Jun. 2024)(Expected) </strong>
+        <strong> 📘Shanghai University, China  </strong>(Sep. 2020 - Jun. 2024)(Expected)
           <a href="https://en.shu.edu.cn/" target="_blank" rel="external">
             <img border="0" src="../images/shu.png" align="right" width="150" height="57">
           </a> 
@@ -63,10 +63,13 @@ Education
 
 
 
+
+
+
 ---
 
-Experience
-------
+## Experience
+
 
 ### Mathematical Contest in Modeling
 
@@ -108,8 +111,8 @@ Based on the patient’s functional magnetic resonance data (fMRI), extract feat
 
 
 
-Skills
-------
+## Skills
+
 
 * $LaTeX$
 
@@ -117,7 +120,6 @@ Skills
 
 * ……
 
-  
 
 ## Publications
 * Updating~
