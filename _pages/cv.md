@@ -28,8 +28,8 @@ E-Mail👇
 
 ---
 
-Education
-------
+
+##Education
 
 <div align="left">
         <strong> 📕Shanghai Jiao Tong University, China  </strong>(Feb. 2022 - Jun. 2024)
@@ -57,10 +57,11 @@ Education
       </div>
 <br>
 
+          
 ---
 
-Experience
-------
+          
+##Experience
 
 ### Mathematical Contest in Modeling
 
@@ -86,7 +87,7 @@ Experience
           </a> 
         <ul>
         <i>
-          As a member of SHU Robomaster Team SRM, I assisted in development of the *standard* robot and the assembly.</i>
+          As a member of SHU Robomaster Team SRM, I assisted in development of the standard robot and the assembly.</i>
       </ul>      
       </div>
 
@@ -100,31 +101,4 @@ Based on the patient’s functional magnetic resonance data (fMRI), extract feat
 
 
 
----
 
-
-
-## Skills
-
-
-* $LaTeX$
-
-* CET-6
-
-* ……
-
-
-## Publications
-* Updating~
-
-
-## Talks
-* Updating~
-
-
-## Teaching
-* Updating~
-
-
-## Service and leadership
-* Updating~
