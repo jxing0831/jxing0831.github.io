@@ -29,7 +29,7 @@ E-Mail👇
 ---
 
 
-##Education
+## Education
 
 <div align="left">
         <strong> 📕Shanghai Jiao Tong University, China  </strong>(Feb. 2022 - Jun. 2024)
@@ -61,35 +61,24 @@ E-Mail👇
 ---
 
           
-##Experience
-
+## Experience
 ### Mathematical Contest in Modeling
 
-- *2022 Mathematical Contest in Modeling, MCM/ICM* 
+- 2022 Mathematical Contest in Modeling, MCM/ICM
   - Used the Logistics model to simulate the growth of forest area and the time series model to predict the forest area after ten years of the model to provide forest managers with optimal management plans. 
   
   - Article Harvest or Conserve? A Forest Management Plan Based on Multiple Dynamic Strategy was awarded **Honorable Mention**, top **21%**. 
   
-- *2022 Shanghai University Mathematical Contest in Modeling* 
+- 2022 Shanghai University Mathematical Contest in Modeling 
   - Improved and optimized SEIR epidemic model for healthcare in Shanghai. And forecast the development of epidemic situation and put forward suggestions for economic development. 
   - The article won the first place in Shanghai University, **top 1/50**. 
 
-- *2022 China Undergraduate Mathematical Contest in CUMCM* 
+- 2022 China Undergraduate Mathematical Contest in CUMCM 
   - Built a PCA model for data dimensionality reduction and used the Fisher Linear Discriminant to classify samples and judge the type.
 
 
 
 
-
-<div align="left">
-    <font size="4"><strong> Team SRM, Shanghai University  </strong></font>(Sep. 2021 - Aug. 2022)
-            <img border="0" src="../images/srm.png" align="right" width="60" height="54">
-          </a> 
-        <ul>
-        <i>
-          As a member of SHU Robomaster Team SRM, I assisted in development of the standard robot and the assembly.</i>
-      </ul>      
-      </div>
 
 
 
