@@ -27,7 +27,7 @@ redirect_from:
 
 <div align="left">
         <strong> 📕Shanghai Jiao Tong University, China  </strong>(Feb. 2022 - Jun. 2024)
-          <a href="https://www.ntu.edu.sg/" target="_blank" rel="external">
+          <a href="https://en.sjtu.edu.cn/" target="_blank" rel="external">
             <img border="0" src="../images/sjtu.png" align="right" width="210" height="70">
           </a> 
         <ul>
