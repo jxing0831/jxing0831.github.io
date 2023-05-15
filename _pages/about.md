@@ -12,7 +12,7 @@ redirect_from:
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jxing0831.github.io&left_text=My%20HomePage%20Visitors)
 
-<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px"></a>, Welcome to Jie Xing's home page!</h3>
+<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px">, welcome to Jie Xing's home page !</h3>
 
 
 
